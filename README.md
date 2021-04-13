@@ -7,6 +7,8 @@ Foobar is a Python REST API for Employee CRUD operation.
 
 Install python and django
 
+pip install django
+
 ## Usage
 
 once installed, git clone Employee_jaininfoway repository
